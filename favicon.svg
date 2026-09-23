@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Willow Nook Home">
+  <rect width="48" height="48" rx="10" fill="#FBF6EE"/>
+  <circle cx="24" cy="23" r="17" fill="#F2D8A7"/>
+  <path d="M13 32c0-10 6-17 20-19-1 14-8 20-20 19z" fill="#0F4A4C"/>
+  <path d="M13 34c6-6 12-10 18-12" stroke="#C2751A" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+</svg>

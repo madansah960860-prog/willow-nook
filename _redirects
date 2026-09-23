@@ -1,0 +1,3 @@
+# Netlify SPA fallback — every route is served by index.html so a hard refresh
+# on /product/bramble-led-reading-floor-lamp does not 404.
+/*    /index.html   200
